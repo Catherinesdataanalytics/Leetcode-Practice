@@ -1,0 +1,2 @@
+# LeetcodePractice
+Start from Python
